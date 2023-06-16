@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Bradley '26
 ### Learning a lot
+### I know HTML, CSS, JavaScript, Ruby and some Python
 
 <!--
 **A2830/A2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
